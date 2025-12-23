@@ -1,0 +1,21 @@
+StudentID,Name,Age,Gender,Course,Marks
+1,Aarav,20,Male,Computer Science,78
+2,Diya,21,Female,Information Technology,85
+3,Rohan,22,Male,Computer Science,67
+4,Ananya,20,Female,Data Science,92
+5,Kunal,23,Male,Electronics,74
+6,Priya,21,Female,Information Technology,88
+7,Aditya,22,Male,Mechanical,69
+8,Neha,20,Female,Computer Science,81
+9,Rahul,23,Male,Civil,65
+10,Isha,21,Female,Data Science,90
+11,Arjun,22,Male,Electronics,72
+12,Pooja,20,Female,Computer Science,84
+13,Manish,24,Male,Mechanical,70
+14,Sneha,21,Female,Information Technology,89
+15,Vikram,23,Male,Civil,68
+16,Kavya,20,Female,Data Science,93
+17,Nitin,22,Male,Computer Science,76
+18,Ritu,21,Female,Electronics,82
+19,Sahil,23,Male,Mechanical,71
+20,Meera,20,Female,Information Technology,87
